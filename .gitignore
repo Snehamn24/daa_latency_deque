@@ -1,0 +1,18 @@
+# C / C++ build artifacts
+*.o
+*.out
+*.exe
+latency_deque
+
+# Java compiled classes
+*.class
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Large temporary benchmark files
+data/large_*.txt
+
+# Editor / OS junk
+.DS_Store
